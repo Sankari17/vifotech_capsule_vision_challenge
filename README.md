@@ -1,6 +1,9 @@
-![confusion matrix](https://github.com/user-attachments/assets/afaeb368-9c9a-4de1-a675-55fd540bdb65)
 # Project Title
 CAPSULE VISION CHALLENGE
+
+Genrated confusion matrix:
+![confusion matrix](https://github.com/user-attachments/assets/afaeb368-9c9a-4de1-a675-55fd540bdb65)
+
 ## Preview
 
 Here is the MODEL we trained:
