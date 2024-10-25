@@ -1,5 +1,4 @@
 #Code for training the model using ResNet50 and generating the confusion matrix
-
 import os
 import numpy as np
 import pandas as pd
