@@ -3,6 +3,6 @@
 CAPSULE VISION CHALLENGE
 ## Preview
 
-Here is the code we used for excel sheet generation:
+Here is the MODEL we trained:
 "https://drive.google.com/file/d/1JE9zh08LHjy4kgzWdbzB1W0NtDb-4LuT/view?usp=drive_link"
 
