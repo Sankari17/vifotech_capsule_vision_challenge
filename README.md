@@ -14,3 +14,4 @@ METRICS:
 Here is the MODEL we trained:
 "https://drive.google.com/file/d/1JE9zh08LHjy4kgzWdbzB1W0NtDb-4LuT/view?usp=drive_link"
 
+**ViFotech** is overwhelmed in honour to announce that our team has secured **16th** rank in the **Capsule Vision Challenge 2024**.
